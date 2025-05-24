@@ -52,7 +52,7 @@ A **Café Horizonte** é uma cafeteria de bairro com três linhas de produto:
 - Transformar o consumo em rotina:
   - Manhã = Fast Coffee
   - Almoço = Sobremesa rápida
-  - Tarde = Café com conversa
+  - Tarde = Café com tempo livre
 
 ### 🎯 Meta financeira
 - Faturamento-alvo: **R$ 30.000/mês**
@@ -60,15 +60,9 @@ A **Café Horizonte** é uma cafeteria de bairro com três linhas de produto:
 
 ---
 
-## 📎 Acesse a planilha com todos os cálculos:
-[🔗 Google Planilhas com os dados do projeto](https://docs.google.com/spreadsheets/d/1PLANTILHA_ID_AQUI)  
-*(Disponibilizado com acesso público para visualização)*
-
----
-
 ## 📌 Autor
 
 **Rafael de Almeida**  
 Estudante de Economia | Foco em Controladoria e Modelagem de Negócios  
-LinkedIn: [linkedin.com/in/rafaelalmeida](https://www.linkedin.com/in/seu-link-aqui)  
+LinkedIn: [linkedin.com/in/rafaelalmeida](https://www.linkedin.com/in/almeidarafaelc/)  
 GitHub: [github.com/almeidarafaelfinance](https://github.com/almeidarafaelfinance)
